@@ -1,7 +1,5 @@
-# Tableau_Mapping_Guide
-
-Mapping Reference
-Intro: Tableau at its core is a tool for people to ask and answer questions of their data. Many of these questions start with the interrogative where. While Tableau is broader than a pure GIS program, its ability to tie spatial data into other datasets to answer where questions is special.
+# Tableau Mapping Reference
+Tableau at its core is a tool for people to ask and answer questions of their data. Many of these questions start with the interrogative where. While Tableau is broader than a pure GIS program, its ability to tie spatial data into other datasets to answer where questions is special.
 ## Categories
 ## Connecting/preparing data
 ### Connecting to geographic data
